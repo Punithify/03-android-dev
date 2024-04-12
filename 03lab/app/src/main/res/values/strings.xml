@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="intent_data_goes_here">Intent Data goes here</string>
+    <string name="textfield_label">something</string>
+    <string name="elevated_button">click</string>
+    <string name="label">hello</string>
+</resources>

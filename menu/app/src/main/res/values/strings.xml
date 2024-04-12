@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menu</string>
+    <string name="menu_search">menu-search\n</string>
+    <string name="menu_settings">something</string>
+</resources>

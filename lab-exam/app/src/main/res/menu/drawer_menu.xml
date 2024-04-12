@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_matches"
+            android:title="Matches" />
+        <item
+            android:id="@+id/nav_videos"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_stats"
+            android:title="Stats" />
+        <item
+            android:id="@+id/nav_points_table"
+            android:title="Points Table" />
+        <item
+            android:id="@+id/nav_teams"
+            android:title="Teams" />
+        <item
+            android:id="@+id/nav_news"
+            android:title="News" />
+    </group>
+</menu>
